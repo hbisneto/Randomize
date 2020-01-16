@@ -13,3 +13,6 @@ O software é capaz de:
 # Lista de Comandos (em Português):
 - Abrir Sobre: Mostra a janela "Sobre"
 - Fechar Sobre: Fecha a janela "Sobre"
+
+# Visual Studio 2013 Ultimate:
+- Esse software foi desenvolvido, utilizando a IDE Visual Studio 2013 Ultimate - Update 5
