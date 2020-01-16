@@ -1,0 +1,12 @@
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\bin\Release\Randomize.exe.config
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\bin\Release\Randomize.exe
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\bin\Release\Randomize.pdb
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\bin\Release\Randomize.xml
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.About.resources
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.Form1.resources
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.InputAction.resources
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.Resources.resources
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.vbproj.GenerateResource.Cache
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.exe
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.xml
+C:\Users\Heitor\Desktop\RandomizeMe\Randomize\Randomize\obj\Release\Randomize.pdb
